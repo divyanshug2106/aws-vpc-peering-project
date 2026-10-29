@@ -76,7 +76,7 @@ This project provides practical experience with AWS networking, EC2, subnet conf
 
 ## Architecture Diagram
 
-![AWS VPC Peering Architecture](architecture-diagram-aws-vpc-peering-project.png)
+![AWS VPC Peering Architecture](architechure-diagram-aws-vpc-peering-project.jpeg)
 
 
 
