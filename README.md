@@ -71,3 +71,13 @@ Actual test results will be documented after verification.
 ## Learning Outcomes
 
 This project provides practical experience with AWS networking, EC2, subnet configuration, route tables, security groups, and VPC Peering.
+
+
+
+## Architecture Diagram
+
+![AWS VPC Peering Architecture](architecture-diagram-aws-vpc-peering-project.png)
+
+
+
+
